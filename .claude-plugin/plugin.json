@@ -1,0 +1,11 @@
+{
+  "name": "ninecode-skills",
+  "description": "NINECODE agent skills: local-first AI workflows (system diagnostics, Ollama routing).",
+  "version": "0.1.0",
+  "author": {
+    "name": "NINECODE"
+  },
+  "skills": [
+    "./skills/nine-system"
+  ]
+}
