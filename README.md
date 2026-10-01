@@ -14,7 +14,7 @@ unless noted.
 
 **Claude Code** (plugin):
 ```
-/plugin marketplace add <tu-usuario>/ninecode-skills
+/plugin marketplace add Ninesam-9/ninecode-skills
 /plugin install ninecode-skills
 ```
 
